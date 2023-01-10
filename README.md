@@ -26,5 +26,4 @@ by Eddie Kao (eddie@5xcampus.com)
 ## 練習內容：
  - 利用*DOM*增加、修改、刪除DOM元素
  - NodeList方法
- - var的使用時機
  - 將預計重複使用的功能包成function
